@@ -6,6 +6,12 @@
 </head>
 <body>
 
+    <form onsubmit="return buscarPorCedula()">
+        <input type="text" id="cedula" name="cedula" value="">
+        <input type="button" id="buscar" name="buscar" value="Buscar" onclick="buscarPorCedula()">
+    </form>
+    <div id="informacion"><b>Datos de la persona</b></div>
+
     <table style="width:100%">
         <tr>
         <th>Cedula</th>
@@ -46,5 +52,12 @@
             $conn->close();
         ?>
     </table>
+
+    <?php
+        session_start();
+        $_SESSION['isLogged'] = FALSE;
+        session_destroy();
+        header("Location: /SistemaDeGestion/public/vista/login.html");
+    ?>
 </body>
 </html>
