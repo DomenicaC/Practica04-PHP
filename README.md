@@ -126,9 +126,10 @@ i)	En el informe se debe incluir la firma digital del estudiante.
 
 ## CONCLUSIONES:
 
-•	El uso de estas herramientas nos da paso a un sin fin de posibilidades el uso de estas base para el respaldo de la información y datos que se pueden almacenar es una herramienta de gran uso por lo que su implementación en diferentes paginas o areas esta presente.
+•	El uso de estas herramientas nos da paso a un sin fin de posibilidades el uso de estas bases para el respaldo de la información y datos que se pueden almacenar es una herramienta de gran uso por lo que su implementación en diferentes paginas o áreas está presente.
 
-•	Podemos decir que la integracion  de paginas web con base de datos son de escensdial ayuda para ayuda al desarrollo de paginas web.
+•	Podemos decir que la integración  de páginas web con base de datos son de esencial ayuda para ayuda al desarrollo de páginas web.
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
