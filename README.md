@@ -28,6 +28,7 @@ Link: https://github.com/DomenicaC/Practica04-PHP.git
 
 ### 3.	Luego, se debe crear el archivo README del repositorio de GitHub.
 
+![image](https://user-images.githubusercontent.com/49033368/100574155-60ce6b80-32a7-11eb-8348-888fad5e6dd2.png)
 
 ### 4.	Generar informe de los resultados en el formato de prácticas. Debe incluir:
 a)	El diagrama E-R.
