@@ -1,5 +1,5 @@
 <?php
-echo "<p>Hola mundo !!!</p>";
+//echo "<p>Hola mundo !!!</p>";
 
     session_start();
     //CONEXION BASE DE DATOS    
